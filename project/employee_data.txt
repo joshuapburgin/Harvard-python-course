@@ -1,0 +1,5 @@
+employeeID,companyID,name,email,linkedin,job_title
+1,3,Evan Shankman,evanshanky@openai.com,https://www.linkedin.com/in/evan-shankman-4516b5229/,Chief technology officer
+2,3,Ben Julian,benjuls@king.com, https://www.linkedin.com/in/ben-julian-4526b5229/,Chief Data Scientist
+3,6,Gavriel ,gav@rec.com,https://www.linkedin.com/in/gavriel-burgin-2836b3257/,founder/ceo
+4,3,Sam Altman,sam@openai.com, https://www.linkedin.com/in/sam-altman-33257/,founder/ceo

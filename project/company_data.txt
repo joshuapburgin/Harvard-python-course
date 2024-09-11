@@ -1,0 +1,8 @@
+companyID,name,website,industry
+1, LVT8,www.LVT8.com, Furniture
+2, Harvard,https://www.harvard.edu/,Education
+3, OpenAI,https://platform.openai.com/,Technology
+4, Apple,https://www.apple.com/,Technology
+5, king company,evisthebestcoder.com/,
+6, Renaissance Technologies,https://www.rentec.com/Home.action?index=true,Finance
+
